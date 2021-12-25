@@ -1,7 +1,7 @@
 [![Header](https://github.com/AnatolySamoriansky/AnatolySamoriansky/blob/main/assets/bg.png)](https://twitch.tv/twistplay2)
 
 ## Laboratory Work
-- [SPbCT](https://github.com/AnatolySamoriansky/SPbCT_GlushnevAS)
+- [SPbCT](https://github.com/AnatolySamoriansky/SPbCT_GlushnevAS) - Лабораторные Работы.
 <!--
 **AnatolySamoriansky/AnatolySamoriansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
