@@ -1,4 +1,4 @@
-[![Header](https://github.com/AnatolySamoriansky/AnatolySamoriansky/blob/main/assets/bg.png)](https://twitch.tv/twistplay2)
+[![Header](https://github.com/AnatolySamoriansky/AnatolySamoriansky/blob/main/assets/bg.png)](https://twitch.tv/tw1stpl4y)
 
 ## Laboratory Work
 - [SPbCT](https://github.com/AnatolySamoriansky/SPbCT_GlushnevAS) - Лабораторные Работы. (Баталов)
