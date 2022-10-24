@@ -3,6 +3,7 @@
 ## Laboratory Work
 - [SPbCT](https://github.com/AnatolySamoriansky/SPbCT_GlushnevAS) - Лабораторные Работы. (Баталов)
 - [AProg](https://github.com/AnatolySamoriansky/AProg) - Лабораторные Работы. (Параничев)
+- [TRPO](https://github.com/AnatoliyGlushnev/BlackBoxTesting) - Лабораторные Работы. (Кривоносова)
 <!--
 **AnatolySamoriansky/AnatolySamoriansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
